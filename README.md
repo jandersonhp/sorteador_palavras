@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Projeto Educacional](https://img.shields.io/badge/Projeto-Educacional-success)
+![Sem IA](https://img.shields.io/badge/Desenvolvimento-Sem%20IA-important)
+
 # <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" style="vertical-align: middle;"/> Sorteador de Palavras em Python
 
 ## Sobre o Projeto: 
@@ -31,8 +35,8 @@ e resolução de problemas em um ambiente com restrições.
 - Laço de repetição (While).
 
 ## Futuramente
-- Leitura e escrita em arquivos (.txt);
-- Refatoração: separar arquivos .py.
+- [ ] Leitura e escrita em arquivos (.txt);
+- [ ] Refatoração: separar arquivos .py.
 
 ## Datas importantes
 - 31/12/2025: Projeto criado em ambiente corporativo restrito.
