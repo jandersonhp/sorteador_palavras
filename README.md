@@ -41,3 +41,4 @@ e resolução de problemas em um ambiente com restrições.
 ## Datas importantes
 - 31/12/2025: Projeto criado em ambiente corporativo restrito.
 - 01/01/2026: Projeto criado no github (apenas a documentação).
+- 04/01/2026: Tentei escrever o máximo que lembrei de como iniciei a lógica do programa.
